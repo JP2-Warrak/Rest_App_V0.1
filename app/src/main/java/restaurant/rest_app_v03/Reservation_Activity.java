@@ -140,7 +140,8 @@ public class Reservation_Activity extends AppCompatActivity {
 
 
     }
-
+{
+        }
 
     class DeleteTask extends AsyncTask<String,String,String> {
 
